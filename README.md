@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @nadiasumha
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning data structure
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m Nadia Sumha
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning Data Structure
 - 📫 How to reach me nadiasumha@gmail.com
 
 <!---
